@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "diabetes.csv",
 				"container": "input"
 			},
 			"columnDelimiter": ",",
